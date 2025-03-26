@@ -39,7 +39,7 @@ git clone "https://github.com/jotahdavid/allugacell.git"
 **2.** Depois de clonado, entre na pasta do repositório:
 
 ```bash
-cd ./allugator-teste-tecnico
+cd ./allugacell
 ```
 
 **3.** Vamos começar primeiro subindo a API, entre dentro da pasta do projeto do BackEnd e instale as dependências com `npm`:
