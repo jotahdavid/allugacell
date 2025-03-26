@@ -33,7 +33,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 **1.** Abra o seu terminal e clone o repositório do projeto, usando o seguinte comando:
 
 ```bash
-git clone "https://github.com/jotahdavid/allugator-teste-tecnico.git"
+git clone "https://github.com/jotahdavid/allugacell.git"
 ```
 
 **2.** Depois de clonado, entre na pasta do repositório:
